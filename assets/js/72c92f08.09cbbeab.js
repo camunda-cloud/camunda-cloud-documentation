@@ -1,0 +1,1 @@
+(self.webpackChunkcamunda_cloud_documentation=self.webpackChunkcamunda_cloud_documentation||[]).push([[99232],{72613:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"camunda","name":"camunda","count":1,"permalink":"/blog/tags/camunda"}')}}]);

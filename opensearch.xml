@@ -7,5 +7,5 @@
   <Image width="16" height="16" type="image/x-icon">https://docs.camunda.io/img/favicon.ico</Image>
   <Url type="text/html" method="get" template="https://docs.camunda.io/search?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.camunda.io/opensearch.xml" />
-  <moz:SearchForm>https://docs.camunda.io</moz:SearchForm>
+  <moz:SearchForm>https://docs.camunda.io/</moz:SearchForm>
 </OpenSearchDescription>
